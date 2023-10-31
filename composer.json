@@ -1,5 +1,5 @@
 {
-  "name": "fenguoz/minter-php-bip-44",
+  "name": "darkkemper/minter-php-bip-44",
   "autoload": {
     "psr-0" : {
       "BIP\\" : "src"
@@ -7,7 +7,7 @@
   },
   "require": {
     "php": ">=7.2",
-    "simplito/elliptic-php": "1.0.6"
+    "simplito/elliptic-php": "1.0.11"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
